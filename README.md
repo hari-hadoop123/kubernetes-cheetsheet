@@ -1,2 +1,2 @@
 # kubernetes-cheetsheet
-kubernetes importance commands
+kubernetes importance commands along with use cases
